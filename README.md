@@ -1,6 +1,6 @@
 # Ziglings  
 
-Compteted Upto 46 ex. Yeeah !!
+Compteted Upto 50 ex. Yeeah !!
 
 How to run:
 ```
